@@ -101,7 +101,6 @@ modules:
       - 'bash HiperthermiaSource/build-for-flatpak.sh'
     sources: 
       - type: "git"
-        path: "../ESCPOSPrinter/"
         url: 'https://git.owlcode.tech/sergiotarxz/Exd'
         commit: '0dff71c1ca9500d87b464cf0cd094132e435d514'
         tag: "v1.0.10"
