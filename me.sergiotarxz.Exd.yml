@@ -102,7 +102,7 @@ modules:
     sources: 
       - type: "git"
         url: 'https://git.owlcode.tech/sergiotarxz/Exd'
-        commit: '6a1c772cf6fb610716107c6bdfd1bd9d9e3daca1'
-        tag: "v1.0.14"
+        commit: 'af25d2fdc90e15d7a38ed0d8f7886b9b4b531937'
+        tag: "v1.0.15"
         dest: 'HiperthermiaSource'
 
