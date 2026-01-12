@@ -102,7 +102,7 @@ modules:
     sources: 
       - type: "git"
         url: 'https://github.com/sergiotarxz/Hiperthermia'
-        commit: '0167b16ee062f3db79e4ab4563a5f8e32e0ff11f'
-        tag: "v2.0.0"
+        commit: 'd600986733804977b682fa1c58b7e30f0633e4d1'
+        tag: "v2.0.1"
         dest: 'HiperthermiaSource'
 
