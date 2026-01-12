@@ -1,6 +1,6 @@
 id: "me.sergiotarxz.Exd"
 runtime: "org.gnome.Platform"
-runtime-version: "47"
+runtime-version: "49"
 sdk: "org.gnome.Sdk"
 finish-args:
   - --share=ipc
@@ -101,8 +101,8 @@ modules:
       - 'bash HiperthermiaSource/build-for-flatpak.sh'
     sources: 
       - type: "git"
-        url: 'https://git.owlcode.tech/sergiotarxz/Exd'
-        commit: 'af25d2fdc90e15d7a38ed0d8f7886b9b4b531937'
-        tag: "v1.0.15"
+        url: 'https://github.com/sergiotarxz/Hiperthermia'
+        commit: '0167b16ee062f3db79e4ab4563a5f8e32e0ff11f'
+        tag: "v2.0.0"
         dest: 'HiperthermiaSource'
 
